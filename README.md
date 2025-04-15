@@ -1,0 +1,3 @@
+### Front-end of the trello web
+
+This project is built by ReactJS, Redux, ...
