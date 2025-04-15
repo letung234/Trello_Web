@@ -40,7 +40,7 @@ Dự án cung cấp các chức năng quản lý công việc với các tính n
 ---
 ## 🚀 Công nghệ sử dụng
 
-- **Frontend**: ReactJS, TailwindCSS, Inertia.js, `@dnd-kit`
+- **Frontend**: ReactJS, TailwindCSS, `@dnd-kit`
 - **Backend**: Node.js, Express.js
 - **Authentication**: JSON Web Token (JWT)
 - **Database**: MongoDB
